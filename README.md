@@ -20,21 +20,24 @@ Me interesa el desarrollo de software, las buenas prácticas, el trabajo colabor
 
 ## 🧰 Tecnologías y herramientas
 
-> Personaliza esta sección con las tecnologías que realmente utilizas.
-
-### Lenguajes
+### Lenguajes y frameworks
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Desarrollo web
+![.NET 8](https://img.shields.io/badge/.NET%208-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 
+### Computación en la nube
+- ☁️ Amazon Web Services (AWS)
 ---
 
 ## 📌 Proyectos destacados
@@ -44,8 +47,6 @@ Aquí puedes mostrar tus proyectos más importantes.
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
 | 🚧 Proyecto 1 | Añade aquí una breve descripción | Tecnología |
-| 🚧 Proyecto 2 | Añade aquí una breve descripción | Tecnología |
-| 🚧 Proyecto 3 | Añade aquí una breve descripción | Tecnología |
 
 ---
 
@@ -64,15 +65,13 @@ Aquí puedes mostrar tus proyectos más importantes.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lxgv12&show_icons=true&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lxgv12&layout=compact&hide_border=true)
-
 ---
 
 ## 🤝 Conecta conmigo
 
 - 💻 GitHub: [@lxgv12](https://github.com/lxgv12)
-- 🔗 LinkedIn: **Añade aquí tu perfil**
-- 📧 Email: **Añade aquí tu correo profesional**
+- 🔗 LinkedIn: [luis-xavier-garcía-vera-033a8977](https://www.linkedin.com/in/luis-xavier-garc%C3%ADa-vera-033a8977/)  
+- 📧 Email: **lxgv12@gmail.com**
 
 ---
 
