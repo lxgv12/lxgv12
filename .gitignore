@@ -1,0 +1,61 @@
+# Agentes y configuración de skills
+.agents/
+skills-lock.json
+
+# Dependencias
+node_modules/
+.pnpm-store/
+.yarn/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Archivos de entorno
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env.*.local
+
+# Directorios de build / salida
+dist/
+build/
+out/
+.next/
+.vercel/
+.turbo/
+.nuxt/
+.output/
+.cache/
+
+# Logs
+logs/
+*.log
+
+# Cobertura de tests
+coverage/
+.nyc_output/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores / IDEs
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.swo
+*.tmp
+*~
+
+# TypeScript
+*.tsbuildinfo
